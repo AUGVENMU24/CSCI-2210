@@ -1,3 +1,2 @@
 Class: membership(),
-CLass: staff(),
 Class: checkIn()
