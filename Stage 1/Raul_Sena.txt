@@ -1,2 +1,2 @@
-Member Management(Class: membership()),
+Membership Management(Class: membership()),
 Check-In Management(Class: checkIn())
