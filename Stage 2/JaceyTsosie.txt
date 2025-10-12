@@ -1,0 +1,5 @@
+Jacey Tsosie 
+Staff Management (Class StaffMember) alias General Staff 
+Manager Management (Class Manager)
+Trainer Management (Class Trainer) 
+Fitness Class Management(Class for class) 
