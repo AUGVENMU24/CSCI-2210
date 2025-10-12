@@ -1,4 +1,3 @@
-Member Management(Class Member()),
 Membership Management(Class: Membership()),
 Check-In Management(Class: Check-In()),
 Payment Management(Class: Payment()),
