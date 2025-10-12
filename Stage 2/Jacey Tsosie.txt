@@ -1,6 +1,0 @@
-Jacey Tsosie 
-
-Class Sessions (Class: FitClass) 
-Equipment Management (Class: Equipment) 
-Staff Management (Class: StaffMember) 
-Specialized Equipment (Class: SpecializedEquipment)
