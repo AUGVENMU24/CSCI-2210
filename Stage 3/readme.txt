@@ -4,4 +4,4 @@ Download .java files
 
 use javac filename [options]
 
-run javac blank.java
+run javac Main.java
