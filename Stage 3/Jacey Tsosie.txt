@@ -1,0 +1,14 @@
+Jacey Tsosie 
+
+-Staff
+-StaffManager 
+-StaffSubMenu
+-StaffSubMenuManager 
+-Trainer
+-TrainerManager 
+-TrainerSubMenu
+-TrainerSubMenuManager
+-FitnessClass
+-FitnessClassManager
+-FitnessClassSubMenu
+-FitnessClassSubMenuManager
