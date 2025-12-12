@@ -1,0 +1,8 @@
+Work Done:
+GUI Implementation For: 
+Member 
+MemberManager
+MemberSubMenuManager
+Menu_GUI
+All Sub GUI Classes Corresponding to Menu_GUI
+Portion of Integration of Classes
