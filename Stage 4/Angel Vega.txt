@@ -1,0 +1,8 @@
+Instruction Manual 
+
+Graphical User Interface Implementation of:
+GymMenu.java
+Equipment.java
+EquipmentManager.java
+EquipmentSubMenuManager.java
+SpecializedEquipment.java
